@@ -12,7 +12,9 @@
 
 
 body {
-    background-color: var(--dark-blue) !important;
+    background-color: var(--black) !important;
+    background-image: url('https://occ-0-4695-358.1.nflxso.net/dnm/api/v6/19OhWN2dO19C9txTON9tvTFtefw/AAAABejKYujIIDQciqmGJJ8BtXkYKKTi5jiqexltvN1YmvXYIfX8B9CYwooUSIzOKneblRFthZAFsYLMgKMyNfeHwk16DmEkpIIcb6A3.png?r=f55');
+    
 }
 
 .myBlueClass {
